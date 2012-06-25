@@ -26,5 +26,5 @@ The user selects the text to be quoted and right-clicks to bring up Firefox's co
 
 The user can then paste the pre-formatted blockquote into their preferred text editor.
 
-**Note:** The author data is not parsed; the user should replace the `Author` placeholder as appropriate.
+**Note:** The author data is not parsed; the user should replace the `Author` placeholder as appropriate. If the author name is made blank, then no source link/title is shown in the blockquote.
 
