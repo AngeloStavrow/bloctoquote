@@ -2,11 +2,11 @@
 
 ## Information
 
-Author: Angelo Stavrow
-E-mail: contact@angelostavrow.com
-Creation Date: 25 June, 2012
-Last Modified: 25 June, 2012
-Version: 0.1
+Author: Angelo Stavrow<br>
+E-mail: contact@angelostavrow.com<br>
+Creation Date: 25 June, 2012<br>
+Last Modified: 25 June, 2012<br>
+Version: 0.1<br>
 Licence: MIT/X11 ([Link](http://www.opensource.org/licenses/mit-license.php "OSI: The MIT License"))
 
 
