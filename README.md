@@ -6,7 +6,7 @@ Author: Angelo Stavrow<br>
 E-mail: contact@angelostavrow.com<br>
 Creation Date: 25 June, 2012<br>
 Last Modified: 25 June, 2012<br>
-Version: 0.1<br>
+Version: 0.2<br>
 Licence: MIT/X11 ([Link](http://www.opensource.org/licenses/mit-license.php "OSI: The MIT License"))
 
 
