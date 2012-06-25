@@ -1,0 +1,9 @@
+{
+    "name": "bloctoquote", 
+    "license": "MIT/X11", 
+    "author": "Angelo Stavrow", 
+    "version": "0.1", 
+    "fullName": "Bloctoquote", 
+    "id": "jid1-3QVjbtLjba5iBg", 
+    "description": "Convert selected text into an Octopress blockquote."
+}

@@ -1,0 +1,1 @@
+Creates a context-menu entry that copies selected text and attempts to format it per Octopress's blockquote syntax, then places it on the system clipboard.
