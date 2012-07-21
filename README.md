@@ -29,6 +29,10 @@ The user can then paste the pre-formatted blockquote into their preferred text e
 
 **Note:** The author data is not parsed; the user should replace the `Source` placeholder as appropriate. If the author name is made blank, then no source link/title is shown in the blockquote.
 
+## Disclaimer
+
+Please note that this add-on is third-party software and is not supported by, affiliated with, or even known to exist by the good folks that created and maintain Octopress. I wrote it to make my life easier, and wanted to share it with you.
+
 
 ## Changelog
 
