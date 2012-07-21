@@ -5,8 +5,8 @@
 Author: Angelo Stavrow<br>
 E-mail: contact@angelostavrow.com<br>
 Creation Date: 25 June, 2012<br>
-Last Modified: 29 June, 2012<br>
-Version: 0.3<br>
+Last Modified: 21 July, 2012<br>
+Version: 1.0<br>
 Licence: MIT/X11 ([Link](http://www.opensource.org/licenses/mit-license.php "OSI: The MIT License"))
 
 
@@ -31,6 +31,10 @@ The user can then paste the pre-formatted blockquote into their preferred text e
 
 
 ## Changelog
+
+### 1.0 (2012-07-21)
+
+Revved to version 1.0; compatibility with FireFox v14.0 tested.
 
 ### 0.3 (2012-06-29)
 
